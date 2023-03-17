@@ -1,0 +1,18 @@
+[
+    {
+        "package": "SSMSE",
+        "url": "https://github.com/nmfs-fish-tools/SSMSE"
+    },
+    {
+        "package": "ghbackup",
+        "url": "https://github.com/nmfs-fish-tools/ghbackup"
+    },
+    {
+        "package": "codespaces4r",
+        "url": "https://github.com/nmfs-fish-tools/codespaces4r"
+    },
+    {
+        "package": "nmfspalette",
+        "url": "https://github.com/nmfs-fish-tools/nmfspalette"
+    }
+]
