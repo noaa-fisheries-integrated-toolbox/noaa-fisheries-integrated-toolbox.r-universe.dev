@@ -4,8 +4,8 @@
         "url": "https://github.com/nmfs-fish-tools/SSMSE"
     },
     {
-        "package": "ghbackup",
-        "url": "https://github.com/nmfs-fish-tools/ghbackup"
+        "package": "ghBackup",
+        "url": "https://github.com/nmfs-fish-tools/ghBackup"
     },
     {
         "package": "codespaces4r",
