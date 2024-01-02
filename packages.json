@@ -24,6 +24,10 @@
         "url": "https://github.com/smwoodman/eSDM"
     },
     {
+        "package": "FIMS",
+        "url": "https://github.com/noaa-fims/fims"
+    },
+    {
         "package": "FishEconProdOutput",
         "url": "https://github.com/EmilyMarkowitz-NOAA/FishEconProdOutput"
     },
