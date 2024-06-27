@@ -94,5 +94,9 @@
     {
         "package": "nmfspalette",
         "url": "https://github.com/nmfs-fish-tools/nmfspalette"
+    }, 
+    {
+        "package": "AgeingError",
+        "url": "https://github.com/pfmc-assessments/AgeingError"
     }
 ]
