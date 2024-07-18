@@ -8,10 +8,6 @@
         "url": "https://github.com/dsjohnson/agTrend.gam"
     },
     {
-        "package": "atsar",
-        "url": "https://github.com/atsa-es/atsar"
-    },
-    {
         "package": "bayesdfa",
         "url": "https://github.com/fate-ewi/bayesdfa"
     },
@@ -66,6 +62,10 @@
     {
         "package": "ObsCovgTools",
         "url": "https://github.com/kacurtis/ObsCovgTools"
+    },
+    {
+        "package": "phylosem",
+        "url": "https://github.com/James-Thorson-NOAA/phylosem"
     },
     {
         "package": "r4MAS",
