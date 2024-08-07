@@ -98,5 +98,9 @@
     {
         "package": "AgeingError",
         "url": "https://github.com/pfmc-assessments/AgeingError"
+    },
+    {
+        "package": "FishSET",
+        "url": "https://github.com/noaa-nwfsc/FishSET"
     }
 ]
