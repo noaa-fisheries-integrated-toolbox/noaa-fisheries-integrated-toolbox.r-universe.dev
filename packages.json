@@ -8,6 +8,10 @@
         "url": "https://github.com/dsjohnson/agTrend.gam"
     },
     {
+        "package": "asar",
+        "url": "https://github.com/nmfs-ost/asar"
+    },
+    {
         "package": "bayesdfa",
         "url": "https://github.com/fate-ewi/bayesdfa"
     },
@@ -92,6 +96,10 @@
         "url": "https://github.com/nwfsc-cb/rCAX/"
     },
     {
+        "package": "stockplotr",
+        "url": "https://github.com/nmfs-ost/stockplotr"
+    },
+    {
         "package": "nmfspalette",
         "url": "https://github.com/nmfs-ost/nmfspalette"
     }, 
@@ -104,3 +112,4 @@
         "url": "https://github.com/noaa-nwfsc/FishSET"
     }
 ]
+
