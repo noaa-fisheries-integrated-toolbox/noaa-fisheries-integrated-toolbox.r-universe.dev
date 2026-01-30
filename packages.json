@@ -8,6 +8,10 @@
         "url": "https://github.com/dsjohnson/agTrend.gam"
     },
     {
+        "package": "ageproR",
+        "url": "https://github.com/nmfs-ost/ageproR"
+    },
+    {
         "package": "asar",
         "url": "https://github.com/nmfs-ost/asar"
     },
@@ -112,4 +116,5 @@
         "url": "https://github.com/noaa-nwfsc/FishSET"
     }
 ]
+
 
