@@ -13,7 +13,8 @@
     },
     {
         "package": "asar",
-        "url": "https://github.com/nmfs-ost/asar"
+        "url": "https://github.com/nmfs-ost/asar",
+        "branch": "*release"
     },
     {
         "package": "bayesdfa",
@@ -29,7 +30,8 @@
     },
     {
         "package": "FIMS",
-        "url": "https://github.com/noaa-fims/fims"
+        "url": "https://github.com/noaa-fims/fims",
+        "branch": "*release"
     },
     {
         "package": "FishEconProdOutput",
@@ -105,7 +107,8 @@
     },
     {
         "package": "stockplotr",
-        "url": "https://github.com/nmfs-ost/stockplotr"
+        "url": "https://github.com/nmfs-ost/stockplotr",
+        "branch": "*release"
     },
     {
         "package": "SPoRC",
