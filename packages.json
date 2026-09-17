@@ -78,10 +78,6 @@
         "url": "https://github.com/James-Thorson-NOAA/phylosem"
     },
     {
-        "package": "r4MAS",
-        "url": "https://github.com/NOAA-FIMS/r4MAS"
-    },
-    {
         "package": "Rpath",
         "url": "https://github.com/NOAA-EDAB/Rpath"
     },
