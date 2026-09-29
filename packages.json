@@ -46,6 +46,10 @@
         "url": "https://github.com/nmfs-ost/ghactions4r"
     },
     {
+        "package": "fishprior",
+        "url": "https://github.com/NOAA-FIMS/fishprior"
+    },
+    {
         "package": "ghBackup",
         "url": "https://github.com/nmfs-ost/ghBackup"
     },
