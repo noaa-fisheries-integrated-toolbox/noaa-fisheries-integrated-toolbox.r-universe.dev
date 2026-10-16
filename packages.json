@@ -125,7 +125,12 @@
     {
         "package": "FishSET",
         "url": "https://github.com/noaa-nwfsc/FishSET"
+    },
+    {
+        "package": "swfscDAS",
+        "url": "https://github.com/SWFSC/swfscDAS"
     }
+    
 ]
 
 
